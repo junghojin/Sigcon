@@ -1,2 +1,2 @@
-# Siglev
-Siglev: Simplifying  a graph based on degree correlation and clustering coefficient
+# Sigcon
+Sigcon: Simplifying a Graph Based on Degree Correlation and Clustering Coefficient
