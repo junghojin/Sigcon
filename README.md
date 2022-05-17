@@ -6,4 +6,4 @@
 
 _Published in: 2017 IEEE 19th International Conference on High Performance Computing and Communications; IEEE 15th International Conference on Smart City; IEEE 3rd International Conference on Data Science and Systems (HPCC/SmartCity/DSS)_
 
-[Link] (https://ieeexplore.ieee.org/document/8291952)
+Link: (https://ieeexplore.ieee.org/document/8291952)
